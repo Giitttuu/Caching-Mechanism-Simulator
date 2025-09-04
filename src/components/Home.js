@@ -7,7 +7,7 @@ const Home = () => {
         {/* Hero Section */}
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Interactive Cache Simulator
+            Interactive Caching Mechanism Simulator
           </h1>
           <p className="text-xl text-gray-600 mb-8">
             Visualize and understand cache replacement algorithms with real-time
